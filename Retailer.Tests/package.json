@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "mocha": "^10.0.0",
+    "selenium-webdriver": "^4.1.2"
+  },
+  "name": "retailer.tests",
+  "version": "1.0.0",
+  "description": "Tests cases for retailers ",
+  "main": "yandex.market.search.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC"
+}
